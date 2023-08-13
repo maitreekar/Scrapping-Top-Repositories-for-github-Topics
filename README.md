@@ -13,8 +13,8 @@ For each repository, we'll grab the repo name, username, stars and repo URL
 For each topic we'll create a Dataframe in the containing the user_name, repository name, its url and number of ratings
 
 # Libraries of python Used:
-Pandas
-Request
-BeautifulSoup
+1.Pandas  
+2..Request
+3.. BeautifulSoup
 
 
